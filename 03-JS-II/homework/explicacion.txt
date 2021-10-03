@@ -1,0 +1,4 @@
+for: crea un bucle que consiste en tres expresiones opcionales, encerradas en parentesis y separadas por puntos y comas
+&&: evalua ambas expresiones y devuelve verdadero si ambas expresiones son true, si una o ambas son falso devuuelve false
+||: determinara si una de las expresiones es true, devuelve true si una o ambas es true, devuelve false si ambas son false
+!: devuelve el valor booleano opuesto de lo que se le pasa
